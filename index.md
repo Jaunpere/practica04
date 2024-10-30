@@ -19,4 +19,5 @@ Algunos de mis hobbies son:
 > Depo**r**tes
 
 #### Este es mi primer contacto con markdawn
+![WhatsApp Image 2024-10-30 at 22 15 16](https://github.com/user-attachments/assets/32b5c3f6-9af5-435e-8845-1cd673bd9c13)
 

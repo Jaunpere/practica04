@@ -1,4 +1,4 @@
-Pagina prectica04
+Pagina practica04
 
 # _Daniel Lazaro_
 ## Pequeña descripción de mi ser

@@ -1,6 +1,5 @@
 # practica04
 Practica04 entornos
-rtxtrxc
 # _Daniel Lazaro_
 ## Pequeña descripción de mi ser
 Soy un chaval de Altura Cast**e**llón 📍

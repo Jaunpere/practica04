@@ -1,6 +1,4 @@
-#Mi pagina web para la practica 04
-
-###Una mini pagina sobre mi
+Pagina prectica04
 
 # _Daniel Lazaro_
 ## Pequeña descripción de mi ser
